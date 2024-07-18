@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Car Rentals for Every Occasion",
+        "title": "Drive with Confidence"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive with Confidence",
+  "subtitle": "Premium Car Rentals for Every Occasion"
+}
